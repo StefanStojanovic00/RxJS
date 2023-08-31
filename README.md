@@ -1,20 +1,43 @@
-**Instalacija**
-Pozicionirajte se u vasem CMD-u u zeljeni direktorijum
-Klonirajte repozitorijum naredbom
-git clone https://github.com/MarkoMilosavljevic00/RWA_Projekat_rxjs.git
-Pokrenite Visual Studio Code u folderu repozitorijuma i otvorite terminal
-Instalirajte webpack naredbom u terminalu
+# CarGame
+
+## _Aplikacija_
+
+**Naziv:** Car Game
+
+**Tehnologija:** RxJS
+
+**Namena:** Prvi projekat iz predmeta Razvoj Web Aplikacija
+
+**Opis:** Web aplikacija namenjena ljubiteljima sportskih automobila.
+
+## _Instalacija_
+1. Pozicionirajte se u vasem CMD-u u zeljeni direktorijum
+2. Klonirajte repozitorijum naredbom 
+```sh
+git clone https://github.com/StefanStojanovic00/RxJS.git
+``` 
+3. Pokrenite Visual Studio Code u folderu repozitorijuma i otvorite terminal
+4. Instalirajte webpack naredbom u terminalu 
+```sh
 npm install webpack webpack-cli --save-dev
-U terminalu moramo biti pozicionirani na direktorijum gde smo klonirali repo
+```
+> U terminalu moramo biti pozicionirani na direktorijum gde smo klonirali repo
 
-Pokretanje
-Otvorite dva terminala
-U jednom terminalu kucate sledeci kod za bundlovanje fajlova u watch modu
+## _Pokretanje_
+1. Otvorite dva terminala
+2. U jednom terminalu kucate sledeci kod za bundlovanje fajlova u watch modu
+```sh
 npm run watch
-U drugom terminalu kucate sledeci kod za pokretanje Json-Server-a
+```
+3. U drugom terminalu kucate sledeci kod za pokretanje **Json-Server**-a
+```sh
 npm run api
-U donjem desnom uglu pritiskamo Go Live kako bismo pokrenuli Live-Server (slika1) slika1
-Potrebne ekstenzije za pokretanje:
+```
+4. U donjem desnom uglu pritiskamo **Go Live** kako bismo pokrenuli **Live-Server** (*slika1*)
+![slika1](src/assets/rm-01.jpg)
 
-Live-Server
-Json-Server# RxJS
+> Potrebne ekstenzije za pokretanje:
+
+> - Live-Server
+
+> - Json-Server
