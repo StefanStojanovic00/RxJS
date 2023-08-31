@@ -1,0 +1,130 @@
+{
+    "Car": [
+      {
+        "id": 1,
+        "ime": "Porsche 911",
+        "vremeAuta":4,
+        "slikaAuta":"https://cdn.statically.io/img/autoblog.rs/gallery/108/215536-porsche%20gts%201.jpg"
+      },
+      {
+        "id": 2,
+        "ime": "Lamborghini Huracan",
+        "vremeAuta":2.8,
+        "slikaAuta":"https://cdn.statically.io/img/autoblog.rs/gallery/108/208924-lamborghini-huracan%205.jpg"
+      },
+      {
+        "id": 3,
+        "ime": "Ferrari 488 GTB",
+        "vremeAuta":3,
+        "slikaAuta":"https://cdn.statically.io/img/www.topgear.com/sites/default/files/images/news-article/2016/05/49acaa1688ec3e636867da07e0d374cd/ferrari-488-gtb_1.jpg"
+      },
+      {
+        "id": 4,
+        "ime": "Audi R8",
+        "vremeAuta":3.2,
+        "slikaAuta":"https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/commons/7/7e/Audi_R8_GT_%28white%29.jpg"
+      },
+      {
+        "id": 5,
+        "ime": "McLaren 720S",
+        "vremeAuta":2.7,
+        "slikaAuta":"https://cdn.statically.io/img/media.wired.com/photos/59266e2baf95806129f4f6c5/master/w_1600%2Cc_limit/P14-Front-3_4.jpg"
+      },
+      {
+        "id": 6,
+        "ime": "BMW M8",
+        "vremeAuta":3.1,
+        "slikaAuta":"https://cdn.statically.io/img/upload.wikimedia.org/wikipedia/commons/thumb/d/d8/BMW_M8_at_IAA_2019_IMG_0637.jpg/1200px-BMW_M8_at_IAA_2019_IMG_0637.jpg"
+      }, 
+      {
+        "id": 7,
+        "ime": "Mercedes-Benz AMG GT",
+        "vremeAuta":3.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/www.topgear.com/sites/default/files/cars-car/image/2020/09/_atf5691.jpeg"
+      },
+      {
+        "id": 8,
+        "ime": "Ford Mustang Shelby GT500",
+        "vremeAuta":3.5,
+        "slikaAuta":"https://cdn.staticaly.com/img/ag-spots-2021.o.auroraobjects.eu/2021/10/15/ford-mustang-shelby-gt500-2020-c635615102021065317_1.jpg"
+      },
+      {
+        "id": 9,
+        "ime": "Chevrolet Corvette",
+        "vremeAuta":2.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/robbreport.com/wp-content/uploads/2021/10/z0609.jpg"
+      },
+      {
+        "id": 10,
+        "ime": "Nissan GT-R Nismo",
+        "vremeAuta":2.5,
+        "slikaAuta":"https://cdn.staticaly.com/img/www.nissanusa.com/content/dam/Nissan/us/vehicles/gtr/2024/specs/nismo/2024-nissan-gt-r-nismo-driving-down-racetrack.jpg"
+      }
+      ,
+      {
+        "id": 11,
+        "ime": "Aston Martin DB11",
+        "vremeAuta":3.5,
+        "slikaAuta":"https://cdn.staticaly.com/img/hips.hearstapps.com/hmg-prod/images/aston-martin-db11-amr-china-grey-7-1526570242.jpg"
+      }
+      ,
+      {
+        "id": 12,
+        "ime": "Bugatti Chiron",
+        "vremeAuta":2.4 ,
+        "slikaAuta":"https://cdn.staticaly.com/img/cdn.motor1.com/images/mgl/xW8K2/s1/bugatti-chiron-pur-sport.jpg"
+      },
+      {
+        "id": 13,
+        "ime": "Koenigsegg Jesko",
+        "vremeAuta":2.5,
+        "slikaAuta":"https://cdn.staticaly.com/img/cdn.motor1.com/images/mgl/nOyQE/s1/koenigsegg-jesko-pre-production-prototype.jpg"
+      },
+      {
+        "id": 14,
+        "ime": "Lotus Evora GT",
+        "vremeAuta":3.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/cdn.carbuzz.com/gallery-images/1600/707000/200/707274.jpg"
+      }
+      ,
+      {
+        "id": 15,
+        "ime": "Pagani Huayra",
+        "vremeAuta":2.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/upload.wikimedia.org/wikipedia/commons/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg"
+      }
+      ,
+      {
+        "id": 16,
+        "ime": "BMW M4",
+        "vremeAuta":4.1,
+        "slikaAuta":"https://cdn.staticaly.com/img/www.bmw.rs/content/dam/bmw/common/all-models/m-series/m4-coupe/2022/Highlights/bmw-4-series-coupe-m-automobiles-mc-product-highlights-m4-csl-hero-desktop.jpg.asset.1651068753808.jpg"
+      },
+      {
+        "id": 17,
+        "ime": "Rimac Nevera",
+        "vremeAuta":1.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/nova.rs/wp-content/uploads/2021/06/1622547018-RIMAC-NEVERA-DYNAMIC_7-e1622549845875-1200x800.jpg"
+      },
+      {
+        "id": 18,
+        "ime": "Porsche Boxster",
+        "vremeAuta":4.7,
+        "slikaAuta":"https://cdn.staticaly.com/img/upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Porsche_718_Boxster_Spyder_IMG_2961.jpg/1200px-Porsche_718_Boxster_Spyder_IMG_2961.jpg"
+      }
+      ,
+      {
+        "id": 19,
+        "ime": "Alfa Romeo Giulia Quadrifoglio",
+        "vremeAuta":3.8,
+        "slikaAuta":"https://cdn.staticaly.com/img/carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/Alfa-Romeo-Quadrifoglio-sedan-blue-press-image-1001x565p-%281%29.jpg"
+      }
+      ,
+      {
+        "id": 20,
+        "ime": "Ferrari SF90 Stradale",
+        "vremeAuta":2.5,
+        "slikaAuta":"https://cdn.staticaly.com/img/upload.wikimedia.org/wikipedia/commons/thumb/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg/1200px-Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg"
+      }
+    ]
+  }
