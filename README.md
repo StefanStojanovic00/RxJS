@@ -1,4 +1,4 @@
-Instalacija
+**Instalacija**
 Pozicionirajte se u vasem CMD-u u zeljeni direktorijum
 Klonirajte repozitorijum naredbom
 git clone https://github.com/MarkoMilosavljevic00/RWA_Projekat_rxjs.git
