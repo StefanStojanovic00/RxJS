@@ -33,9 +33,7 @@ npm run watch
 ```sh
 npm run api
 ```
-4. U donjem desnom uglu pritiskamo **Go Live** kako bismo pokrenuli **Live-Server** (*slika1*)
-![slika1](src/assets/rm-01.jpg)
-
+4. U donjem desnom uglu pritiskamo **Go Live** kako bismo pokrenuli **Live-Server**
 > Potrebne ekstenzije za pokretanje:
 
 > - Live-Server
